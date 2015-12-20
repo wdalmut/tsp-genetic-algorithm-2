@@ -19,3 +19,5 @@ consecutive generations.
 The solution proposed is not optimized and the fact that mutations,
 recombination and selections are not correctly configured causes a set of useless
 solutions as canditates for new generations and sadly a terrible final solution...
+
+![attempt.png](attempt.png)
